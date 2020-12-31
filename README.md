@@ -20,5 +20,5 @@ Open a web browser and access [localhost:8888](http://localhost:8888) to interac
 Once finished, to tear down the environment run:
 
 ```
-$ docker-compose down -v
+$ docker-compose down
 ```
