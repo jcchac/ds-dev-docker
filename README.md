@@ -4,8 +4,8 @@ Simple configuration to get a Data Science environment up and running using Dock
 ### Pre-requisites
 
 - install [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/)
-- modify `docker-compose.yml` file to config your own volume
-- update `requirements.txt` file as needed
+- modify `docker-compose.yml` to config your own volume
+- update `requirements.txt` as needed
 
 ### Usage
 
