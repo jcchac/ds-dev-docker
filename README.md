@@ -12,10 +12,12 @@ Simple configuration to get a Data Science environment up and running using Dock
 From the directory containing the `docker-compose.yml` file, run the following command:
 
 ```bash
-$ docker-compose up -d --build
+$ docker-compose up -d [--build]
 ```
 
-To tear down the environment, run:
+Open a web browser and access [localhost:8888](http://localhost:8888) to interact with notebooks.
+
+Once finished, to tear down the environment run:
 
 ```
 $ docker-compose down -v
